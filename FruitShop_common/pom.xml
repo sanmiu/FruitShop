@@ -6,9 +6,7 @@
 		<artifactId>FruitShop_parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.mi</groupId>
 	<artifactId>FruitShop_common</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 
 	<!-- jar包的依赖 -->
 	<dependencies>
